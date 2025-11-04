@@ -9,8 +9,8 @@
 ### 🚀 Sobre mim
 - 🎓 Graduada em **Análise e Desenvolvimento de Sistemas**  
 - 🎓 Pós-graduada em **Engenharia DevOps**
-- 🎓 Graduada em **Gestão de Arquitetura e Infraestrutura de TI**  
-- ☁️ Apaixonada por **Cloud, Automação e Infraestrutura como Código (IaC)**  
+- 🎓 Pós-graduada em **Gestão de Arquitetura e Infraestrutura de TI**  
+- ☁️ Apaixonada por **Cloud, Automação, Infraestrutura (IaC), Suporte, Infraestrutura de TI**  
 - ⚙️ Explorando as principais nuvens: **AWS**, **Azure**, **Oracle Cloud Infrastructure (OCI)** e **Google Cloud Platform (GCP)**  
 - 🧩 Foco em **CI/CD, observabilidade, segurança e gestão de ambientes**  
 - 💡 Interesse em ambientes híbridos, pipelines e arquitetura resiliente
