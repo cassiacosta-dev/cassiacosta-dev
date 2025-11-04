@@ -8,7 +8,8 @@
 
 ### 🚀 Sobre mim
 - 🎓 Graduada em **Análise e Desenvolvimento de Sistemas**  
-- 🎓 Pós-graduada em **Engenharia DevOps**  
+- 🎓 Pós-graduada em **Engenharia DevOps**
+- 🎓 Graduada em **Gestão de Arquitetura e Infraestrutura de TI**  
 - ☁️ Apaixonada por **Cloud, Automação e Infraestrutura como Código (IaC)**  
 - ⚙️ Explorando as principais nuvens: **AWS**, **Azure**, **Oracle Cloud Infrastructure (OCI)** e **Google Cloud Platform (GCP)**  
 - 🧩 Foco em **CI/CD, observabilidade, segurança e gestão de ambientes**  
@@ -57,12 +58,6 @@
 
 ---
 
-### 📂 Projetos em Destaque
-- 🧱 [**Infrastructure**](https://github.com/cassiacosta-dev/infrastructure):  
-  Automação de provisionamento de infraestrutura AWS com Terraform e GitHub Actions.
-
----
-
 ### 📊 Estatísticas do GitHub
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cassiacosta-dev&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"/>
@@ -70,13 +65,3 @@
 </div>
 
 ---
-
-### 📫 Onde me encontrar
-<p align="center">
-  <a href="https://www.linkedin.com/in/cassiacosta-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:cassiacosta.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-</p>
